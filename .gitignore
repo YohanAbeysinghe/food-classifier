@@ -130,3 +130,4 @@ dmypy.json
 
 #Image folders and data
 Data/Food5k_dataset/*
+Data/ImageNet_dataset/*
